@@ -30,4 +30,4 @@ II. Cleaning and Analyzing **(Project 2 Cleaning and Analyzing.ipynb)**: Analyze
 ## How it Works
   1. Watch Video presentation click Youtube link [Here](https://youtu.be/zbClqCMHpQo)
   2. Read **PPT Presentation.pptx**
-  3. Check Python Code and Visualiztion in 
+  3. Check Python Code and Visualiztion in [Web Scraping](https://weiruiliu.github.io/Web-Scraping-and-Analyzing-Airbnb-Dataset/Project%202%20Web%20Scraping.html) and [Cleaning and Analyzing] (https://weiruiliu.github.io/Web-Scraping-and-Analyzing-Airbnb-Dataset/Project%202%20Cleaning%20and%20Analyzing.html) on Github pages.
