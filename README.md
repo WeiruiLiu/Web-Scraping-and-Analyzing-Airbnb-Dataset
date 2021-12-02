@@ -28,4 +28,6 @@ II. Cleaning and Analyzing **(Project 2 Cleaning and Analyzing.ipynb)**: Analyze
   * Interactive
 
 ## How it Works
-  1. 
+  1. Watch Video presentation click Youtube link [Here](https://youtu.be/zbClqCMHpQo)
+  2. Read **PPT Presentation.pptx**
+  3. Check Python Code and Visualiztion in 
