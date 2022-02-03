@@ -1,4 +1,4 @@
-# Web Scraping and Analyzing Airbnb Data in DMV areas
+# Web Scraping and Analyzing Airbnb Data in the DMV
 Individual Project - Rayna Liu
 
 ## Background and Introduction
